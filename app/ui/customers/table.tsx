@@ -38,7 +38,7 @@ export default async function CustomersTable({
                               width={28}
                               height={28}
                             />
-                            <p>{customer.name}</p>
+                            <p>{customclearer.name}</p>
                           </div>
                         </div>
                         <p className="text-sm text-gray-500">
